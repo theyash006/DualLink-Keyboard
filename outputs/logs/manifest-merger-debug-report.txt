@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:5:5-95
+	android:maxSdkVersion
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:5:66-92
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:6:5-101
+	android:maxSdkVersion
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:6:72-98
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:7:5-106
+	android:maxSdkVersion
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:7:77-103
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:8:5-9:58
+	android:usesPermissionFlags
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:9:9-55
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:8:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:11:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:12:5-94
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:12:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:13:22-74
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:14:5-95
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:14:22-92
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:16:22-63
+uses-feature#android.hardware.bluetooth
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:18:5-87
+	android:required
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:18:61-84
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:18:19-60
+application
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:20:5-74:19
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:20:5-74:19
+	android:extractNativeLibs
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:21:9-36
+	android:theme
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:26:9-46
+activity#com.duallink.keyboard.ui.MainActivity
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:29:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:33:27-74
+service#com.duallink.keyboard.service.DualLinkForegroundService
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:37:9-40:63
+	android:exported
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:39:13-37
+	android:foregroundServiceType
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:38:13-62
+service#com.duallink.keyboard.service.DualLinkAccessibilityService
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:42:9-52:19
+	android:exported
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:44:13-36
+	android:permission
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:45:13-79
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:43:13-65
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:46:13-48:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:47:17-92
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:47:25-89
+meta-data#android.accessibilityservice
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:49:13-51:74
+	android:resource
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:51:17-71
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:50:17-60
+service#com.duallink.keyboard.service.DualLinkImeService
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:54:9-64:19
+	android:exported
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:56:13-36
+	android:permission
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:57:13-70
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:55:13-55
+intent-filter#action:name:android.view.InputMethod
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:58:13-60:29
+action#android.view.InputMethod
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:59:17-67
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:59:25-64
+meta-data#android.view.im
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:61:13-63:65
+	android:resource
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:63:17-62
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:62:17-47
+receiver#com.duallink.keyboard.service.BootReceiver
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:66:9-73:20
+	android:enabled
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:68:13-35
+	android:exported
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:67:13-49
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:70:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:71:17-79
+	android:name
+		ADDED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml:71:25-76
+uses-sdk
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\DualLinkKeyboard\DualLinkKeyboard\android\app\src\main\AndroidManifest.xml
