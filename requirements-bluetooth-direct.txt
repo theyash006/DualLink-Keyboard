@@ -1,0 +1,3 @@
+# Optional only. PyBluez is not required for ADB mode or Bluetooth COM-port mode.
+# On modern Windows/Python versions this package may fail to build.
+pybluez>=0.23
